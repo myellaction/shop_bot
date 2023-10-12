@@ -1,2 +1,3 @@
 # shop_bot
-Бот піцерії
+Телеграм бот піцерії<br>
+https://t.me/shop_python_bot
